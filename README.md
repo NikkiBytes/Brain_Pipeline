@@ -5,3 +5,4 @@
 
     Singularity_Containers/ -- readme files on running Singularity containers, and definition (.def) files  
     for creating Singularity containers. 
+    BIDS-Conversion/        -- readme files describing the BIDS conversion process with adaptable scripts.
