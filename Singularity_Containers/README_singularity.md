@@ -1,14 +1,15 @@
 ### Running Singularity Containers
 This README contains details for running the currently available Singularity containers.
 
-Log into RENCI:
+Log into your HPC:
+
+        RENCI:
 
         $ ssh -XY your_account@ht4.renci.org
         $ {your_password}
 
 
-Singularity Containers are located in the ~/Singularity_Containers folder:
-
+Change to the directory holding your containers:
         $ cd /projects/niblab/bids_projects/Singularity_Containers
 
 
