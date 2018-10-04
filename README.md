@@ -1,3 +1,3 @@
 # Brain_Pipeline
 
-### This repository is committed to generalizing the fMRI data analysis pipeline with reproducible scripts.
+### This repository is committed to generalizing fMRI data analysis with reproducible scripts.
